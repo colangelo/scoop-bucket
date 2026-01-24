@@ -6,11 +6,11 @@
   "architecture": {
     "64bit": {
       "url": "https://github.com/colangelo/HittyPing/releases/download/v0.7.6/hp-windows-amd64.exe#/hp.exe",
-      "hash": "65ff1dfd19aa61d72dadb25ec0b135ae34b57a58cefc905dd00462be6e35ecf1"
+      "hash": "c688db290e8b9f1940bf9a9492614062bd61161dd0eec3ac7f783f83bf99db0f"
     },
     "arm64": {
       "url": "https://github.com/colangelo/HittyPing/releases/download/v0.7.6/hp-windows-arm64.exe#/hp.exe",
-      "hash": "706378858a32b9855c79e2f9de7bb5c1ed40aff591c07f885005f5e70bdbcd8b"
+      "hash": "d65f3a4c9040eadbcea36d64ee500cf81f5f0d453742e28567c1b54c7f8a0fae"
     }
   },
   "bin": "hp.exe",
