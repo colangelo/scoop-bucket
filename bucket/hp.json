@@ -1,30 +1,30 @@
 {
-    "version": "0.7.4",
-    "description": "Prettyping-style HTTP(S) latency monitor",
-    "homepage": "https://github.com/colangelo/HittyPing",
-    "license": "MIT",
-    "architecture": {
-        "64bit": {
-            "url": "https://github.com/colangelo/HittyPing/releases/download/v0.7.4/hp-windows-amd64.exe#/hp.exe",
-            "hash": "cbe7ec581bbe3a510ccc454008ac79975513d217cfc38c4b3efe1f3326b41ebc"
-        },
-        "arm64": {
-            "url": "https://github.com/colangelo/HittyPing/releases/download/v0.7.4/hp-windows-arm64.exe#/hp.exe",
-            "hash": "33c5aef5222796d204829080b72f641ca4993fe8f4dca00bf5cf0be69c71b512"
-        }
+  "version": "0.7.6",
+  "description": "Prettyping-style HTTP(S) latency monitor",
+  "homepage": "https://github.com/colangelo/HittyPing",
+  "license": "MIT",
+  "architecture": {
+    "64bit": {
+      "url": "https://github.com/colangelo/HittyPing/releases/download/v0.7.6/hp-windows-amd64.exe#/hp.exe",
+      "hash": "65ff1dfd19aa61d72dadb25ec0b135ae34b57a58cefc905dd00462be6e35ecf1"
     },
-    "bin": "hp.exe",
-    "checkver": {
-        "github": "https://github.com/colangelo/HittyPing"
-    },
-    "autoupdate": {
-        "architecture": {
-            "64bit": {
-                "url": "https://github.com/colangelo/HittyPing/releases/download/v$version/hp-windows-amd64.exe#/hp.exe"
-            },
-            "arm64": {
-                "url": "https://github.com/colangelo/HittyPing/releases/download/v$version/hp-windows-arm64.exe#/hp.exe"
-            }
-        }
+    "arm64": {
+      "url": "https://github.com/colangelo/HittyPing/releases/download/v0.7.6/hp-windows-arm64.exe#/hp.exe",
+      "hash": "706378858a32b9855c79e2f9de7bb5c1ed40aff591c07f885005f5e70bdbcd8b"
     }
+  },
+  "bin": "hp.exe",
+  "checkver": {
+    "github": "https://github.com/colangelo/HittyPing"
+  },
+  "autoupdate": {
+    "architecture": {
+      "64bit": {
+        "url": "https://github.com/colangelo/HittyPing/releases/download/v$version/hp-windows-amd64.exe#/hp.exe"
+      },
+      "arm64": {
+        "url": "https://github.com/colangelo/HittyPing/releases/download/v$version/hp-windows-arm64.exe#/hp.exe"
+      }
+    }
+  }
 }
