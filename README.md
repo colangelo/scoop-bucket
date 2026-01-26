@@ -1,6 +1,6 @@
 # Scoop Bucket
 
-Scoop bucket for [hp (HittyPing)](https://github.com/colangelo/HittyPing) - a prettyping-style HTTP(S) latency monitor.
+Scoop bucket for hp and other tools
 
 ## Installation
 
