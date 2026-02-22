@@ -1,16 +1,16 @@
 {
-  "version": "0.8.1",
+  "version": "0.8.2",
   "description": "Prettyping-style HTTP(S) latency monitor",
   "homepage": "https://github.com/colangelo/HittyPing",
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/colangelo/HittyPing/releases/download/v0.8.1/hp-windows-amd64.exe#/hp.exe",
-      "hash": "be6b0c2b10bd35dae933851cbd500d1d93c44d15c241dee4e037692bfaf1410b"
+      "url": "https://github.com/colangelo/HittyPing/releases/download/v0.8.2/hp-windows-amd64.exe#/hp.exe",
+      "hash": "c8ea1eab7305d7e1a6327ee78152fc6fbd9bc941c0381b2a78fb92c4604973c5"
     },
     "arm64": {
-      "url": "https://github.com/colangelo/HittyPing/releases/download/v0.8.1/hp-windows-arm64.exe#/hp.exe",
-      "hash": "a7868b345224558f8b8613f5dffc8d9d0dca74019b7fa3ab10207934ae586c93"
+      "url": "https://github.com/colangelo/HittyPing/releases/download/v0.8.2/hp-windows-arm64.exe#/hp.exe",
+      "hash": "477438307e020a2130c323add4566aecc7c33c272881e050ada8099832f2634a"
     }
   },
   "bin": "hp.exe",
